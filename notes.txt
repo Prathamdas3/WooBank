@@ -1,0 +1,6 @@
+------------------------------------------- Project 1 ------------------------------------------
+----> workflow
+first setup your environment properly and start adding important files to your folders 
+create a file structure first and start your Project
+first we import all the files needed to our app file to use them later on 
+if your react functional component simply returns jsx then we can remove the { } with the return statement in the function
