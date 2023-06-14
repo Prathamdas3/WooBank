@@ -4,3 +4,7 @@ first setup your environment properly and start adding important files to your f
 create a file structure first and start your Project
 first we import all the files needed to our app file to use them later on 
 if your react functional component simply returns jsx then we can remove the { } with the return statement in the function
+as react is all about the components so when we import all the files to a same file the the list of imports will take more space than the actual lines of code to solve this issue we can import all the files to a simple js file and then export them from there, and we can import it in the app file with only one line and the needed fileNames are given in the {} to import them at once in only one line these code is much more readable
+--> Ideas 
+1. you can create a js file of multiple class names as a string and call them from other files 
+for example look at the style.js file 
