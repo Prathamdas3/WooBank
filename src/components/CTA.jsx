@@ -1,11 +1,6 @@
-import React from "react";
+import { clients } from "../constants";
+import styles from "../style";
 
-const CTA = () => {
-  return (
-    <div>
-      <h1 className="text-white">CTA</h1>
-    </div>
-  );
-};
+const CTA = () => <div>cta</div>;
 
 export default CTA;
