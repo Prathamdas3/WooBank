@@ -19,12 +19,11 @@ const Testimonials = () => (
           anywhere on the planet.
         </p>
       </div>
-
-      <div className="flex flex-warp sm:justify-start justify-center w-full feedback-container relative z-[1]">
-        {feedback.map((card) => (
-          <FeedBackCard key={card.id} {...card} />
-        ))}
-      </div>
+    </div>
+    <div className="flex flex-warp sm:justify-start justify-center w-full feedback-container relative z-[1]">
+      {feedback.map((card) => (
+        <FeedBackCard key={card.id} {...card} />
+      ))}
     </div>
   </section>
 );
