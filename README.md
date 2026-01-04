@@ -29,7 +29,7 @@ This project is **not a real banking application**. It exists purely as a UI and
 
 A short video walkthrough showcasing the UI, responsiveness, and layout of WooBank.
 
-[![WooBank Demo Video](https://raw.githubusercontent.com/Prathamdas3/WooBank/main/media/video-thumbnail.png)](https://raw.githubusercontent.com/Prathamdas3/WooBank/main/media/woobank.mp4)
+[![WooBank Demo Video](https://raw.githubusercontent.com/Prathamdas3/WooBank/main/media/video-thumbnail.png)](https://raw.githubusercontent.com/Prathamdas3/WooBank/main/media/woobank_demo.mp4)
 
 
 
