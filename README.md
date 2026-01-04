@@ -25,6 +25,15 @@ This project is **not a real banking application**. It exists purely as a UI and
 ![Desktop View](https://github.com/Prathamdas3/webproject-1/assets/116100433/9e984ac5-6cf2-4244-b2a6-76bac93ddd6a)
 
 
+## 🎥 Project Demo
+
+A short video walkthrough showcasing the UI, responsiveness, and layout of WooBank.
+
+[▶ Watch Demo Video](https://raw.githubusercontent.com/Prathamdas3/WooBank/main/media/woobank.mp4)
+
+
+
+
 ## 🚀 Live Demo
 
 👉 https://woobank.netlify.app
